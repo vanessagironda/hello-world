@@ -1,5 +1,6 @@
 # hello-world
-Solo otro repositorio
+
+otro repositorio
 Ahora la copia para ser considerado por el mestra
 #################################################################################
 #################################################################################
